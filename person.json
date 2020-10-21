@@ -1,2 +1,5 @@
-{"Name": "Mon",
- "Age" : 22}
+{
+    "Name": "Mon",
+    "Age" : 22,
+    "Address" : "Cavite"
+}

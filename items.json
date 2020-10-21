@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "type": "armor",
+        "name": "Wood Shield",
+        "stats": {
+            "atk": 0,
+            "def": 14
+        }
+    }
+]
