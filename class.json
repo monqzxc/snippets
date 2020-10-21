@@ -1,0 +1,14 @@
+[
+    {
+        "Id" : 1,
+        "Class" : "Assassin"
+    },
+    {
+        "Id" : 2,
+        "Class" : "Mage"
+    },
+    {
+        "Id" : 3,
+        "Class" : "Tank"
+    }
+]

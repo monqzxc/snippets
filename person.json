@@ -1,5 +1,6 @@
 {
     "Name": "Mon",
     "Age" : 22,
-    "Address" : "Cavite"
+    "Address" : "Cavite",
+    "Gender" : "Male"
 }
